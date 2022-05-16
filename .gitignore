@@ -1,0 +1,7 @@
+unpack_packdat3
+unpack_packdat3.exe
+repack_packdat3
+repack_packdat3.exe
+*.o
+*.png
+*.ogg
